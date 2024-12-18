@@ -1,6 +1,6 @@
-# CodeHelperAgent
+# CodeHelper
 
-Welcome to **CodeHelperAgent**, a smart coding assistant built with Google's Gemini API. This agent is designed to help developers by providing explanations, suggesting improvements, and debugging code. Whether you're learning new concepts or refining your code, CodeHelperAgent is here to assist.
+**CodeHelper** is a smart coding assistant powered by Google's Gemini API. This tool is designed to assist developers by providing detailed explanations of code, offering suggestions for improvements, and helping with debugging. Whether you're learning new programming concepts or fine-tuning your code, CodeHelper is here to support you in enhancing your development workflow.
 
 ## Key Features
 
@@ -13,11 +13,11 @@ Welcome to **CodeHelperAgent**, a smart coding assistant built with Google's Gem
 
 ### Prerequisites
 
-To run CodeHelperAgent, you'll need:
+To run CodeHelper, you'll need:
 - Python 3.7 or higher
 - A Gemini API key (This will be used to generate code explanations, improvements, and debugging suggestions)
 
-### Setting Up the Agent
+### Setting Up guide
 
 1. **Clone the Repository**:
    Start by cloning the repository to your local machine.
@@ -31,15 +31,14 @@ To run CodeHelperAgent, you'll need:
 
       ```bash
    pip install -r requirements.txt
-
+   ```
 3. Get Your API Key: You'll need a Gemini API key. You can find instructions to generate your API key in the [Get Gemini API key](https://ai.google.dev/gemini-api/docs/api-key).
 
-4. Configure the API Key: When you run the application, you'll be prompted to enter your API key. This key will allow the agent to interact with Google's Gemini API to generate responses for your code.
+4. Configure the API Key: When you run the application, you'll be prompted to enter your API key. This key will allow the tool to interact with Google's Gemini API to generate responses for your code.
 
 ## How to Use
-Once the setup is complete, you're ready to use the CodeHelperAgent!
+Once the setup is complete, you're ready to use the CodeHelper!
 
-### Running the Agent
 In your terminal, navigate to the directory where the script is located.
 
 Run the agent by executing:
